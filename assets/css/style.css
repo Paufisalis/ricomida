@@ -1,0 +1,163 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+body *{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*Navbar*/
+.navbar-titulo{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: white;
+}
+
+/*Navbar*/
+
+/* Header */
+header{
+    margin-bottom: 5rem;
+}
+.titulo_header{
+    font-weight: 700;
+    font-size: 3.3rem;
+}
+
+.subtitulo_header{
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.botoncito{
+    color: #000000;
+}
+
+/* Header */
+
+/* Carrusel */
+.carousel-indicators{
+    bottom: -70px;
+    margin-bottom: 1rem;
+}
+.carousel-indicators li{
+    background-color: #373A3C !important;
+    border-radius: 50%;
+    height: 10pt;
+    width: 10pt;
+    
+}
+/* Carrusel */
+
+/* Receta */
+.receta{
+    list-style-type: none;
+   
+}
+
+.lista_ingredientes{
+    list-style: none;
+    padding-left: 0;
+}
+
+h3{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.receta li{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+.receta ol li{
+    margin-bottom: 2rem;
+}
+
+.receta p{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+.barra{
+    border: solid #000000 1px;
+}
+/* Receta */
+
+/*Eventos_Anteriores*/
+.evento{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+}
+.barra_eventos{
+    width: 100%;
+}
+
+.titulo_relacionadas{
+    font-weight: 700 !important;
+    font-size: 2.5rem;
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.card-text{
+    font-weight: 400;
+    font-size: 1rem;
+}
+/*Eventos_Anteriores*/
+
+
+/*Aside*/
+.jumbotron{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.contenido{
+    padding-top: 8%;
+    vertical-align: middle;
+}
+.contenido{
+    height: 300px;
+}
+
+.suscribete{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.texto{
+    font-weight: 400;
+    font-size: 1.8rem;
+}
+
+/*Aside*/
+
+/*Footer*/
+.footer_ricomida{
+    font-family: 'Lobster', cursive;
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+
+}
+footer{
+    padding-top: 25px;
+    height: 100px;
+    color: #ffffff;
+    
+}
+/*Footer*/
